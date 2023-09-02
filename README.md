@@ -1,5 +1,4 @@
-Selenium & Tor
-Runs Selenium on the Tor Network.
+Selenium & Tor runs Selenium on the Tor Network.
 
 Allows you to do things like: 
 Continue scraping a website even if you have been IP banned.
