@@ -17,7 +17,9 @@ driver = webdriver.Firefox(firefox_profile=profile)
 #Go to url & check our ip to see if Tor is working with Selenium:
 driver.get("h:ttps://nordvpn.com/what-is-my-ip/")
 
-# Close the browser
+#Put your Selenium code here
+
+# Close the browser when done
 driver.quit()
 
 
