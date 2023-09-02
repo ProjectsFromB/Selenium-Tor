@@ -1,4 +1,4 @@
-Selenium & Tor runs Selenium on the Tor Network.
+Selenium-Tor runs Selenium on the Tor Network.
 
 
 Allows you to do things such as: 
